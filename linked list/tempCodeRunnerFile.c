@@ -1,0 +1,2 @@
+insert(k,d);
+    // print();

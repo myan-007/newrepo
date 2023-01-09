@@ -1,0 +1,1 @@
+printf("first rank is of %s",s[n].name);
